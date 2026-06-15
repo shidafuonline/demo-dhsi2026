@@ -1,0 +1,13 @@
+objectid,perfume name,perfume house,gender,amount,status,obtained,accords,description,accords,country,key_notes,top_notes,middle_notes,base_notes,original source (website),identifier (?),type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
+--,,,,,,,,,,,,,,,,,,,,,,,,,,,
+frag01,Hyouge,Parfum Satori,unisex,50ml,unisex,2025,green; fresh; ozonic,,,Japan,matcha; tea; violet,,,,https://img15.shop-pro.jp/PA01085/608/product/16537666_o1.jpg?cmsp_timestamp=20230420234731,,Image;StillImage,image/jpeg,jp,,,image,,,,,
+frag02,Poivre Piquant,L'Artisan Parfumeur,,5ml,unisex,2025,spicy; warm; lactonic,,,France,,,,,,,Image;StillImage,application/pdf,eng,,,,,,,,
+frag03,Gris Charnel,BDK,,2ml,unisex,2025,woody; warm,,,France,,,,,,,,,eng,"In Copyright - Educational Use Permitted. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",,,,,,,
+frag04,Gris Charnel Extrait,BDK,,3ml,masculine,2024,woody; warm,,,France,,,,,,,Image;MovingImage,video/mp4,eng,"In Copyright - Educational Use Permitted. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",,,,,,,
+frag05,Liam Grey ,Lattafa,,100ml,unisex,2023,woody; warm,,,UAE,,,,,,,Image;MovingImage,video/mp4,eng,"In Copyright - Educational Use Permitted. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",,,,,,,
+frag06,Cedre Figalia,Atelier Materi,,3ml,unisex,2025,green; fruity,,,France,,,,,,,Image;StillImage,image/jpg,eng,"Material produced by the United States Forest Service and is in Public Domain. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",,,,,,,
+frag07,Poets of Berlin,Vilhelm Parfumerie,,3ml,feminine,2025,fruity; fresh,,,France,,,,,,,Text,application/pdf,eng,"metadata-only record, please check publication for rights",,,,,,,
+frag08,Lilyphea,Dyptique,,3ml,feminine,2025,"green, fresh",,,France,,,,,,,,,,,,,,,,,
+frag09,Peau,Arquiste,,2ml,unisex,2025,musky; warm,,,USA,,,,,,,,,,,,,,,,,
+frag10,No-Mind,IDLE,,2ml,unisex,2025,lactonic; experimental,,,France,,,,,,,,,,,,,,,,,
+frag12,Premiere Figuier,L'Artisan Parfumeur,,2ml,unisex,2025,fruity; fresh; green,,,France,,,,,,,,,,,,,,,,,
