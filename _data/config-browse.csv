@@ -3,6 +3,6 @@ date,Date,,,Date Created
 description,,,true,
 creator,Creator,,,
 subject,,true
-publisher,,true
+publisher,Publisher,true
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
